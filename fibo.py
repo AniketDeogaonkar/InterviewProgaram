@@ -1,6 +1,5 @@
 import time
 
-
 def fiboitr(n):
     prevNum=0
     currentNum=1
